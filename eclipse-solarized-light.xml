@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="9876543210" name="Solarized Light" modified="2012-10-12 15:00:00" author="Shiv" website="http://ethanschoonover.com/solarized">
+    <!-- BASE -->
+    <background color="#FEF9E6" />
+    <currentLine color="#EEE8D5" />
+    <selectionBackground color="#93A1A1" />
+    <lineNumber color="#93A1A1" />
+    <foreground color="#47636A" />
+    <selectionForeground color="#073642" />
+    <!-- ACCENT -->
+    <string color="#2AA198" />
+    <number color="#2AA198" />
+    <singleLineComment color="#93A1A1" bold="false" italic="true" />
+    <multiLineComment color="#93A1A1" italic="true" />
+    <commentTaskTag color="#DC322F" italic="true" />
+    <javadoc color="#657B83" italic="false" />
+    <javadocLink color="#859900" underline="false" strikethrough="false" />
+    <javadocTag color="#859900" />
+    <javadocKeyword color="#859900" />
+    <keyword color="#B58900" bold="false" />
+    <bracket color="#47636A" />
+    <operator color="#47636A" />
+    <constant color="#D33682" />
+    <enum color="#47636A" />
+    <annotation color="#CB4B16" />
+    <class color="#47636A" />
+    <interface color="#47636A" />
+    <methodDeclaration color="#268BD2" bold="true" />
+    <method color="#47636A" />
+    <inheritedMethod color="#47636A" />
+    <abstractMethod color="#47636A" />
+    <staticMethod color="#47636A" />
+    <localVariableDeclaration color="#47636A" />
+    <localVariable color="#47636A" />
+    <field color="#6C71C4" />
+    <staticField color="#6C71C4" />
+    <staticFinalField color="#6C71C4" italic="true" />
+    <parameterVariable color="#47636A" />
+    <typeArgument color="#47636A" />
+    <typeParameter color="#47636A" bold="true" />
+    <deprecatedMember color="#657B83" />
+    <!-- SEARCH -->
+    <searchResultIndication color="#EEE8D5" />
+    <filteredSearchResultIndication color="#EEE8D5" />
+    <occurrenceIndication color="#EEE8D5" />
+    <writeOccurrenceIndication color="#EEE8D5" />
+    <findScope color="#EEE8D5" />
+    <deletionIndication color="#657B83" />
+    <sourceHoverBackground color="#EEE8D5" />
+</colorTheme>

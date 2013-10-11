@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="9876543210" name="Solarized Dark" modified="2012-10-12 15:00:00" author="Shiv" website="http://ethanschoonover.com/solarized">
+    <!-- BASE -->
+    <background color="base03" />
+    <currentLine color="base02" />
+    <selectionBackground color="base01" />
+    <lineNumber color="base01" />
+    <foreground color="base1" />
+    <selectionForeground color="base2" />
+    <!-- ACCENT -->
+    <string color="cyan" />
+    <number color="cyan" />
+    <singleLineComment color="base01" bold="false" italic="true" />
+    <multiLineComment color="base01" italic="true" />
+    <commentTaskTag color="red" italic="true" />
+    <javadoc color="base0" italic="false" />
+    <javadocLink color="green" underline="false" strikethrough="false" />
+    <javadocTag color="green" />
+    <javadocKeyword color="green" />
+    <keyword color="yellow" bold="false" />
+    <bracket color="base1" />
+    <operator color="base1" />
+    <constant color="magenta" />
+    <enum color="base1" />
+    <annotation color="orange" />
+    <class color="base1" />
+    <interface color="base1" />
+    <methodDeclaration color="blue" bold="true" />
+    <method color="base1" />
+    <inheritedMethod color="base1" />
+    <abstractMethod color="base1" />
+    <staticMethod color="base1" />
+    <localVariableDeclaration color="base1" />
+    <localVariable color="base1" />
+    <field color="violet" />
+    <staticField color="violet" />
+    <staticFinalField color="violet" italic="true" />
+    <parameterVariable color="base1" />
+    <typeArgument color="base1" />
+    <typeParameter color="base1" bold="true" />
+    <deprecatedMember color="base0" />
+    <!-- SEARCH -->
+    <searchResultIndication color="base02" />
+    <filteredSearchResultIndication color="base02" />
+    <occurrenceIndication color="base02" />
+    <writeOccurrenceIndication color="base02" />
+    <findScope color="base02" />
+    <deletionIndication color="base0" />
+    <sourceHoverBackground color="base02" />
+</colorTheme>
